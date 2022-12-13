@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cppWorkSpace" Database="" Version="10000">
+  <Project Name="HelloWorld" Path="HelloWorld/HelloWorld.project" Active="No"/>
+  <Project Name="VectorOfVectors" Path="VectorOfVectors/VectorOfVectors.project" Active="No"/>
+  <Project Name="VectorExample" Path="VectorExample/VectorExample.project" Active="No"/>
+  <Project Name="ClassesInheritance" Path="ClassesInheritance/ClassesInheritance.project" Active="No"/>
+  <Project Name="TheProblem" Path="TheProblem/TheProblem.project" Active="No"/>
+  <Project Name="UniquePointer" Path="UniquePointer/UniquePointer.project" Active="No"/>
+  <Project Name="Arrays" Path="cppWorkSpace/cppWorkSpace.project" Active="No"/>
+  <Project Name="cppWorkSpace" Path="cppWorkSpace/cppWorkSpace.project" Active="No"/>
+  <Project Name="IncrementDecrementOperators" Path="IncrementDecrementOperators/IncrementDecrementOperators.project" Active="No"/>
+  <Project Name="CipherChallenge" Path="CipherChallenge/CipherChallenge.project" Active="No"/>
+  <Project Name="ThreadProgramm" Path="ThreadProgramm/ThreadProgramm.project" Active="No"/>
+  <Project Name="AccessingClassMembers" Path="AccessingClassMembers/AccessingClassMembers.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="HelloWorld" ConfigName="Debug"/>
+      <Project Name="VectorOfVectors" ConfigName="Debug"/>
+      <Project Name="VectorExample" ConfigName="Debug"/>
+      <Project Name="ClassesInheritance" ConfigName="Debug"/>
+      <Project Name="TheProblem" ConfigName="Debug"/>
+      <Project Name="UniquePointer" ConfigName="Debug"/>
+      <Project Name="Arrays" ConfigName="Debug"/>
+      <Project Name="cppWorkSpace" ConfigName="Debug"/>
+      <Project Name="IncrementDecrementOperators" ConfigName="Debug"/>
+      <Project Name="CipherChallenge" ConfigName="Debug"/>
+      <Project Name="ThreadProgramm" ConfigName="Debug"/>
+      <Project Name="AccessingClassMembers" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="HelloWorld" ConfigName="Release"/>
+      <Project Name="VectorOfVectors" ConfigName="Release"/>
+      <Project Name="VectorExample" ConfigName="Release"/>
+      <Project Name="ClassesInheritance" ConfigName="Release"/>
+      <Project Name="TheProblem" ConfigName="Release"/>
+      <Project Name="UniquePointer" ConfigName="Release"/>
+      <Project Name="Arrays" ConfigName="Release"/>
+      <Project Name="cppWorkSpace" ConfigName="Release"/>
+      <Project Name="IncrementDecrementOperators" ConfigName="Release"/>
+      <Project Name="CipherChallenge" ConfigName="Release"/>
+      <Project Name="ThreadProgramm" ConfigName="Release"/>
+      <Project Name="AccessingClassMembers" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

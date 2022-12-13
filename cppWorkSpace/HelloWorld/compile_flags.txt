@@ -1,0 +1,4 @@
+-IC:\Users\paahmad\OneDrive\Program Files\Codelite\Cpp\cppWorkSpace\cppWorkSpace\HelloWorld
+-std=c++17
+-target
+i686-pc-windows-gnu
