@@ -6,8 +6,8 @@
 ProjectName            :=AccessingClassMembers
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
-WorkspacePath          :="C:/Users/paahmad/OneDrive/Program Files/Codelite/Cpp/cppWorkSpace/cppWorkSpace"
-ProjectPath            :="C:/Users/paahmad/OneDrive/Program Files/Codelite/Cpp/cppWorkSpace/cppWorkSpace/AccessingClassMembers"
+WorkspacePath          :="D:/Git Repos/Cpp/cppWorkSpace/cppWorkSpace"
+ProjectPath            :="D:/Git Repos/Cpp/cppWorkSpace/cppWorkSpace/AccessingClassMembers"
 IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/AccessingClassMembers
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
@@ -29,7 +29,7 @@ OutputSwitch           :=-o
 LibraryPathSwitch      :=-L
 PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
-OutputDirectory        :=C:/Users/paahmad/OneDrive/Program Files/Codelite/Cpp/cppWorkSpace/cppWorkSpace/build-$(WorkspaceConfiguration)/bin
+OutputDirectory        :=D:/Git Repos/Cpp/cppWorkSpace/cppWorkSpace/build-$(WorkspaceConfiguration)/bin
 OutputFile             :=..\build-$(WorkspaceConfiguration)\bin\$(ProjectName).exe
 Preprocessors          :=
 ObjectSwitch           :=-o 
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp $(IntermediateDirectory)/main.cpp$(DependSuffix)
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/paahmad/OneDrive/Program Files/Codelite/Cpp/cppWorkSpace/cppWorkSpace/AccessingClassMembers/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "D:/Git Repos/Cpp/cppWorkSpace/cppWorkSpace/AccessingClassMembers/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(DependSuffix): main.cpp
 	@$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/main.cpp$(ObjectSuffix) -MF$(IntermediateDirectory)/main.cpp$(DependSuffix) -MM main.cpp
 
