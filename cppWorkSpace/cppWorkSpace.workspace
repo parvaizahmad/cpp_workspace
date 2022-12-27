@@ -17,7 +17,8 @@
   <Project Name="secction6Challenge" Path="secction6Challenge/secction6Challenge.project" Active="No"/>
   <Project Name="secrtion7Challenge" Path="secrtion7Challenge/secrtion7Challenge.project" Active="No"/>
   <Project Name="section8Challange" Path="section8Challange/section8Challange.project" Active="No"/>
-  <Project Name="codingExercise20" Path="codingExercise20/codingExercise20.project" Active="Yes"/>
+  <Project Name="codingExercise20" Path="codingExercise20/codingExercise20.project" Active="No"/>
+  <Project Name="section10Challenge" Path="section10Challenge/section10Challenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -39,6 +40,7 @@
       <Project Name="secrtion7Challenge" ConfigName="Debug"/>
       <Project Name="section8Challange" ConfigName="Debug"/>
       <Project Name="codingExercise20" ConfigName="Debug"/>
+      <Project Name="section10Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -60,6 +62,7 @@
       <Project Name="secrtion7Challenge" ConfigName="Release"/>
       <Project Name="section8Challange" ConfigName="Release"/>
       <Project Name="codingExercise20" ConfigName="Release"/>
+      <Project Name="section10Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

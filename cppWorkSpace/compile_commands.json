@@ -1,4 +1,8 @@
 [{
+  "file": "D:\\Git Repos\\Cpp\\cppWorkSpace\\cppWorkSpace\\section10Challenge\\main.cpp",
+  "directory": "D:\\Git Repos\\Cpp\\cppWorkSpace\\cppWorkSpace\\section10Challenge",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c \"D:\\Git Repos\\Cpp\\cppWorkSpace\\cppWorkSpace\\section10Challenge\\main.cpp\" -o \"D:\\Git Repos\\Cpp\\cppWorkSpace\\cppWorkSpace\\section10Challenge\\main.cpp\".o -target x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I.  -g  -O0  -Wall"
+ }, {
   "file": "D:\\Git Repos\\Cpp\\cppWorkSpace\\cppWorkSpace\\secrtion7Challenge\\main.cpp",
   "directory": "D:\\Git Repos\\Cpp\\cppWorkSpace\\cppWorkSpace\\secrtion7Challenge",
   "command": "C:/TDM-GCC-64/bin/g++.exe -c \"D:\\Git Repos\\Cpp\\cppWorkSpace\\cppWorkSpace\\secrtion7Challenge\\main.cpp\" -o \"D:\\Git Repos\\Cpp\\cppWorkSpace\\cppWorkSpace\\secrtion7Challenge\\main.cpp\".o -target x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I.  -g  -O0  -Wall"
