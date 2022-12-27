@@ -12,7 +12,12 @@
   <Project Name="CipherChallenge" Path="CipherChallenge/CipherChallenge.project" Active="No"/>
   <Project Name="ThreadProgramm" Path="ThreadProgramm/ThreadProgramm.project" Active="No"/>
   <Project Name="AccessingClassMembers" Path="AccessingClassMembers/AccessingClassMembers.project" Active="No"/>
-  <Project Name="AccessModifiersSettersGetters" Path="AccessModifiersSettersGetters/AccessModifiersSettersGetters.project" Active="Yes"/>
+  <Project Name="AccessModifiersSettersGetters" Path="AccessModifiersSettersGetters/AccessModifiersSettersGetters.project" Active="No"/>
+  <Project Name="Section4Challenge" Path="Section4Challenge/Section4Challenge.project" Active="No"/>
+  <Project Name="secction6Challenge" Path="secction6Challenge/secction6Challenge.project" Active="No"/>
+  <Project Name="secrtion7Challenge" Path="secrtion7Challenge/secrtion7Challenge.project" Active="No"/>
+  <Project Name="section8Challange" Path="section8Challange/section8Challange.project" Active="No"/>
+  <Project Name="codingExercise20" Path="codingExercise20/codingExercise20.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -29,6 +34,11 @@
       <Project Name="ThreadProgramm" ConfigName="Debug"/>
       <Project Name="AccessingClassMembers" ConfigName="Debug"/>
       <Project Name="AccessModifiersSettersGetters" ConfigName="Debug"/>
+      <Project Name="Section4Challenge" ConfigName="Debug"/>
+      <Project Name="secction6Challenge" ConfigName="Debug"/>
+      <Project Name="secrtion7Challenge" ConfigName="Debug"/>
+      <Project Name="section8Challange" ConfigName="Debug"/>
+      <Project Name="codingExercise20" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -45,6 +55,11 @@
       <Project Name="ThreadProgramm" ConfigName="Release"/>
       <Project Name="AccessingClassMembers" ConfigName="Release"/>
       <Project Name="AccessModifiersSettersGetters" ConfigName="Release"/>
+      <Project Name="Section4Challenge" ConfigName="Release"/>
+      <Project Name="secction6Challenge" ConfigName="Release"/>
+      <Project Name="secrtion7Challenge" ConfigName="Release"/>
+      <Project Name="section8Challange" ConfigName="Release"/>
+      <Project Name="codingExercise20" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
